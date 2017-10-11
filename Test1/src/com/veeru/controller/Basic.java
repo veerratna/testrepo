@@ -20,7 +20,6 @@ public class Basic {
 	@RequestMapping("/home")
 	public String showHomePage(){
 		
-		
 		return "Homepage";}
 	
 
